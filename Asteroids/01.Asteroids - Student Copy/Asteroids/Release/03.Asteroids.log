@@ -1,0 +1,34 @@
+﻿  03.asteroids.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\03.asteroids.cpp(79): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  bitmap.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\bitmap.cpp(154): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DebugPrinter.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\debugprinter.cpp(149): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Input.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\input.cpp(66): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Matrix.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\matrix.cpp(211): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Renderer.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\renderer.cpp(134): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  StateMachine.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\statemachine.cpp(167): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Timer.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\timer.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Vector2.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\vector2.cpp(111): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Vector3.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\engine\vector3.cpp(168): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  AstGame.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\astgame.cpp(275): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  BaseObject.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\baseobject.cpp(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Bullet.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\bullet.cpp(57): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ExplosionManager.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\explosionmanager.cpp(74): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  GameStates.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\gamestates.cpp(311): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Rock.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\rock.cpp(186): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Ship.cpp
+c:\users\gareth\work\dev\gamesacademy\gareth\2018-19\comp350\lecture 02\01.asteroids - student copy\asteroids\game\ship.cpp(241): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
