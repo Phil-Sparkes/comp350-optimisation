@@ -23,6 +23,7 @@ void Bullet::Update()
 		||((Position.x + Velocity.x) > vp.Width)
 		)
 	{
+		delete this;
 		SetInUse(false);
 		return;
 	}
@@ -31,6 +32,7 @@ void Bullet::Update()
 		||((Position.y + Velocity.y) > vp.Height)
 		)
 	{
+		delete this;
 		SetInUse(false);
 		return;
 	}

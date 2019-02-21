@@ -4,14 +4,14 @@
   DebugPrinter.cpp
   Input.cpp
   Matrix.cpp
-d:\01.asteroids - student copy\01.asteroids - student copy\asteroids\engine\matrix.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\comp350-optimisation\asteroids\01.asteroids - student copy\asteroids\engine\matrix.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   Renderer.cpp
   StateMachine.cpp
   Timer.cpp
   Vector2.cpp
-d:\01.asteroids - student copy\01.asteroids - student copy\asteroids\engine\vector2.cpp(22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\comp350-optimisation\asteroids\01.asteroids - student copy\asteroids\engine\vector2.cpp(22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Vector3.cpp
-d:\01.asteroids - student copy\01.asteroids - student copy\asteroids\engine\vector3.cpp(66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\comp350-optimisation\asteroids\01.asteroids - student copy\asteroids\engine\vector3.cpp(66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   AstGame.cpp
   BaseObject.cpp
   Bullet.cpp
@@ -20,6 +20,5 @@ d:\01.asteroids - student copy\01.asteroids - student copy\asteroids\engine\vect
   Rock.cpp
   Ship.cpp
   Generating Code...
-  03.Asteroids.vcxproj -> D:\01.Asteroids - Student Copy\01.Asteroids - Student Copy\Debug\Asteroids.exe
-  D:\01.Asteroids - Student Copy\01.Asteroids - Student Copy\Asteroids\3rdParty\SDL2-2.0.7\lib\x86\SDL2.dll
-  1 File(s) copied
+  03.Asteroids.vcxproj -> D:\comp350-optimisation\Asteroids\01.Asteroids - Student Copy\Debug\Asteroids.exe
+  0 File(s) copied

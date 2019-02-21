@@ -97,7 +97,7 @@ void AstGame::Update()
 					if((*bullet)->CollidesWith((*rock)) == true)
 					{
 						ExplodeRock(*(*rock));
-						
+						delete (*bullet);
 						(*bullet)->SetInUse(false);
 					}
 				}
