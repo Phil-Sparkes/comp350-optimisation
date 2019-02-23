@@ -97,6 +97,7 @@ void AstGame::Update()
 					if((*bullet)->CollidesWith((*rock)) == true)
 					{
 						ExplodeRock(*(*rock));
+						delete (*rock);
 						delete (*bullet);
 						(*bullet)->SetInUse(false);
 					}
@@ -111,7 +112,8 @@ void AstGame::Update()
 					{
 						TheShip.SetCollided(true);						
 					}
-					ExplodeRock(*(*rock));					
+					ExplodeRock(*(*rock));	
+					delete (*rock);
 				}
 			}
 		}

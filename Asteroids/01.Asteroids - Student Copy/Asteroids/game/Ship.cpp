@@ -46,7 +46,8 @@ void Ship::Update()
 
 	if (Input::Get()->GetKeyState(VK_LCONTROL) != KeyState_NotPressed)
 	{
-		if(Renderer::Get()->GetFrameCount() - lastShotTime > 10)
+		//if(Renderer::Get()->GetFrameCount() - lastShotTime > 10)
+		if(Renderer::Get()->GetFrameCount() - lastShotTime > 2)
 		{
 			Bullet* b = new Bullet();
 
@@ -156,7 +157,7 @@ void Ship::Draw()
 
 		if (canCollide() == false)
 		{
-			drawShip = (Renderer::Get()->GetFrameCount() % 10) >=5;
+			//drawShip = (Renderer::Get()->GetFrameCount() % 10) >=5;
 		}
 
 		if (drawShip == true)
@@ -231,7 +232,8 @@ std::vector<Vector2> Ship::GetLineList()
 
 bool Ship::canCollide()
 {
-	return (invincibleTicker == 0);
+	return false;
+	//return (invincibleTicker == 0);
 }
 
 void Ship::SetInvincible()

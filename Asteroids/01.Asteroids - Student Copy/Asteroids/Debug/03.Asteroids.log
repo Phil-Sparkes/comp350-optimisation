@@ -1,24 +1,3 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (03.Asteroids.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  03.asteroids.cpp
-  bitmap.cpp
-  DebugPrinter.cpp
-  Input.cpp
-  Matrix.cpp
-d:\comp350-optimisation\asteroids\01.asteroids - student copy\asteroids\engine\matrix.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Renderer.cpp
-  StateMachine.cpp
-  Timer.cpp
-  Vector2.cpp
-d:\comp350-optimisation\asteroids\01.asteroids - student copy\asteroids\engine\vector2.cpp(22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-  Vector3.cpp
-d:\comp350-optimisation\asteroids\01.asteroids - student copy\asteroids\engine\vector3.cpp(66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-  AstGame.cpp
-  BaseObject.cpp
-  Bullet.cpp
-  ExplosionManager.cpp
-  GameStates.cpp
-  Rock.cpp
-  Ship.cpp
-  Generating Code...
-  03.Asteroids.vcxproj -> D:\comp350-optimisation\Asteroids\01.Asteroids - Student Copy\Debug\Asteroids.exe
+  03.Asteroids.vcxproj -> E:\3rd Year\350\Assignment 1 Optimisation Task (50)\comp350-optimisation\Asteroids\01.Asteroids - Student Copy\Debug\Asteroids.exe
   0 File(s) copied
